@@ -1,4 +1,4 @@
-Vps代理服务器搭建指南(基于ubuntu18)\n
+Vps代理服务器搭建指南(基于ubuntu18)\
 一、购买国外VPS
 1、官网
 https://www.vultr.com/
