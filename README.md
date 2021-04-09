@@ -1,14 +1,14 @@
 Vps代理服务器搭建指南(基于ubuntu18)\
-一、购买国外VPS\
-1、官网\
-https://www.vultr.com/\
-2、vps配置截图\
+一、购买国外VPS
+1、官网
+https://www.vultr.com/
+2、vps配置截图
  
-二、配置VPS\
+二、配置VPS
 1、本机通过ssh连接远程vps(国外服务器)\
  
-连接成功界面\
-失败解决办法：\
+连接成功界面
+失败解决办法：
 https://liuyanzhao.com/6338.html
 连接ssh提示IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY
  
