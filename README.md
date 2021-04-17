@@ -1,5 +1,4 @@
 
-#readme
 @[TOC](ubuntu下vps搭建指南)
 一、购买国外VPS
 1、官网
