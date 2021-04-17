@@ -4,6 +4,7 @@ ubuntu下vps搭建指南
 
 1、官网
 [https://www.vultr.com/](https://www.vultr.com/)
+
 2、vps配置截图
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218124113512.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
