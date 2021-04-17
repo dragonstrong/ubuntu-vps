@@ -105,6 +105,7 @@ ubuntu打开shadowsockschain-qt5 GUI界面,按照服务器shadowsocks.json的设
 与vps连接成功
 
 四、让ubuntu终端走代理
+
 参考链接：
 [ubuntu终端走代理](https://blog.csdn.net/weixin_42135399/article/details/82706083?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-
 
@@ -128,8 +129,6 @@ https://blog.csdn.net/jiugedexiaodi/article/details/92368546
 ```
 
 
-
-
 2、修改修改配置文件proxychains.conf
 ###特别注意不是主目录下的etc，而是/usr/local/etc/proxychains.conf，把最后一句（带socks4的）修改成如下：
 socks5  127.0.0.1 1080  #1080改为你自己的端口
@@ -151,6 +150,7 @@ proxychains4 wget google.com
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218125058710.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
 使用代理的IP和速度（注意strict chain那一行，都从127.0.0.1:1080出）
+
 五、ubuntu浏览器走代理
 
 参考链接：[ubuntu浏览器走代理](https://www.codetd.com/article/1790848)
@@ -160,6 +160,7 @@ proxychains4 wget google.com
 proxy一栏设置为：  socks5 127.0.0.1 1080  ，点击应用选项保存。
 使用时点击auto switch 
 浏览器访问google发现还访问不了，这时再点蓝色图标，点开未加载的资源，然后模式选择proxy,点击添加条件。
+
 六、window浏览器使用代理
 
 1、下载ssr windows安装包
