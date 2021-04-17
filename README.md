@@ -1,12 +1,13 @@
-
-@[TOC](ubuntu下vps搭建指南)
+ubuntu下vps搭建指南
 一、购买国外VPS
+
 1、官网
 [https://www.vultr.com/](https://www.vultr.com/)
 2、vps配置截图
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218124113512.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
 二、配置VPS
+
 1、本机通过ssh连接远程vps(远在国外的服务器)
 
 ```
@@ -73,6 +74,7 @@ ssserver -c /etc/shadowsocks.json -d start
 
 自此远程服务器端已配好，ssh相当于向日葵或xshell，方便在自己电脑上操作国外的服务器，配完就可以关掉远程界面（root@vultr:~#）了。
 三、ubuntu系统下shadowsockschain-qt5的安装和配置
+
 1、安装
 链接：[https://www.codetd.com/article/3092913](https://www.codetd.com/article/3092913)
 
@@ -145,6 +147,7 @@ proxychains4 wget google.com
 
 使用代理的IP和速度（注意strict chain那一行，都从127.0.0.1:1080出）
 五、ubuntu浏览器走代理
+
 参考链接：[ubuntu浏览器走代理](https://www.codetd.com/article/1790848)
 1、下载插件SwitchyOmega 
 [下载地址](https://proxy-switchyomega.com/download/#firefox-%E6%88%96%E5%9F%BA%E4%BA%8E-mozilla-%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8)
@@ -153,6 +156,7 @@ proxy一栏设置为：  socks5 127.0.0.1 1080  ，点击应用选项保存。
 使用时点击auto switch 
 浏览器访问google发现还访问不了，这时再点蓝色图标，点开未加载的资源，然后模式选择proxy,点击添加条件。
 六、window浏览器使用代理
+
 1、下载ssr windows安装包
 [下载地址](https://tlanyan.me/shadowsockr-shadowsocksr-shadowsocksrr-clients/)
 2、配置好并连接
