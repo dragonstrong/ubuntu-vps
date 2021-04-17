@@ -103,9 +103,12 @@ ubuntu打开shadowsockschain-qt5 GUI界面,按照服务器shadowsocks.json的设
 
  
 与vps连接成功
+
 四、让ubuntu终端走代理
 参考链接：
-[ubuntu终端走代理](https://blog.csdn.net/weixin_42135399/article/details/82706083?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
+[ubuntu终端走代理](https://blog.csdn.net/weixin_42135399/article/details/82706083?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-
+
+1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control)
 1、proxychains安装
 
 ```
