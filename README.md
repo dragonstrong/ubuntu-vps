@@ -153,9 +153,12 @@ proxychains4 wget google.com
 
 五、ubuntu浏览器走代理
 
-参考链接：[ubuntu浏览器走代理](https://www.codetd.com/article/1790848)
+参考链接：[ubuntu浏览器走代理]
+(https://www.codetd.com/article/1790848)
+
 1、下载插件SwitchyOmega 
 [下载地址](https://proxy-switchyomega.com/download/#firefox-%E6%88%96%E5%9F%BA%E4%BA%8E-mozilla-%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8)
+
 2、使用说明
 proxy一栏设置为：  socks5 127.0.0.1 1080  ，点击应用选项保存。
 使用时点击auto switch 
@@ -165,8 +168,10 @@ proxy一栏设置为：  socks5 127.0.0.1 1080  ，点击应用选项保存。
 
 1、下载ssr windows安装包
 [下载地址](https://tlanyan.me/shadowsockr-shadowsocksr-shadowsocksrr-clients/)
+
 2、配置好并连接
-2、打开chrome浏览器设置中  
+
+3、打开chrome浏览器设置中  
 高级->系统->代理设置->手动设置代理如下
 ip:   127.0.0.1
 port: 1080
