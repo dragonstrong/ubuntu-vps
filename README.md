@@ -97,13 +97,14 @@ sudo apt-get install shadowsocks-qt5
 2、配置
 ubuntu打开shadowsockschain-qt5 GUI界面,按照服务器shadowsocks.json的设置配置客户端（本机电脑）参数，连接远程服务器，一定要成功才能进行后续操作。此时将浏览器设置一下就能访问外网，但终端还不能。
 
+客户端配置
+
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218124805626.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
-客户端配置
+与vps连接成功
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218124824243.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
-与vps连接成功
 
 四、让ubuntu终端走代理
 
