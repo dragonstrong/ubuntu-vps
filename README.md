@@ -74,7 +74,8 @@ ssserver -c /etc/shadowsocks.json -d start
 
 
 
-自此远程服务器端已配好，ssh相当于向日葵或xshell，方便在自己电脑上操作国外的服务器，配完就可以关掉远程界面（root@vultr:~#）了。
+自此远程服务器端已配好,配完就可以关掉远程界面（root@vultr:~#）了。
+
 三、ubuntu系统下shadowsockschain-qt5的安装和配置
 
 1、安装
