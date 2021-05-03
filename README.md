@@ -142,14 +142,19 @@ sudo gedit /usr/local/etc/proxychains.conf
 在要用代理的命令前面加"proxychains4"即可，如：
 proxychains4 wget google.com
 若配置代理成功，此句命令会有返回，否则没有
- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218125015484.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
 测试google的可访问性
- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218125023903.png#pic_center)
+
+ ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218125015484.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
 不用代理的IP和速度
- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218125058710.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
+
+ ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218125023903.png#pic_center)
+
 使用代理的IP和速度（注意strict chain那一行，都从127.0.0.1:1080出）
+
+ ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218125058710.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
+
 
 五、ubuntu浏览器走代理
 
