@@ -1,6 +1,6 @@
 ubuntu下vps搭建指南
 
-一、购买国外VPS
+一、购买国外VPS(不推荐vltur，太垃圾还贵，可以试试virmach)
 
 1、官网
 [https://www.vultr.com/](https://www.vultr.com/)
@@ -185,4 +185,4 @@ port: 1080
 
 
 **说明：
-vultr不是很稳定，常有ip被封，遇到这种情况可尝试非热门地区的ip，或者找更稳定的服务器。**
+vultr不是很稳定，ip经常被封，遇到这种情况可尝试非热门地区的ip，或者找更稳定的服务器,最近换了virmach,最低2.5$/mon，先用用看。**
