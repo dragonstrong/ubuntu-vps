@@ -1,6 +1,6 @@
 ubuntu下vps搭建指南
 
-一、购买国外VPS(不推荐vltur了，太垃圾还贵，但还没找到更好的服务器,最近在试virmach)
+一、购买国外VPS(不推荐vltur了，太垃圾还贵，但还没找到更好的服务器，最近在试virmach)
 
 1、官网
 [https://www.vultr.com/](https://www.vultr.com/)
