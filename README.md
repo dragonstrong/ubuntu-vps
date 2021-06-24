@@ -1,4 +1,4 @@
-ubuntu下vps搭建指南
+ubuntu 18下vps搭建指南
 
 一、购买国外VPS(**不太推荐vltur了，ip三天两头被封，若还能ping通，一般可通过改端口重启服务器救活，但还是太垃圾又贵，不过还没找到更好的服务器，最近在试virmach，好像也不咋滴，就是便宜了一点**)
 
@@ -114,7 +114,7 @@ ubuntu打开shadowsockschain-qt5 GUI界面,按照服务器shadowsocks.json的设
 1、proxychains安装
 
 ```
-git clone https://github.com/rofl0r/proxychains-ng
+git clone https://github.com/rofl0r/proxychains-ng #访问不了github可以windows上开vpn到github下载后拷贝到ubuntu，然后执行后续命令
 cd proxychains-ng
 sudo apt install gcc
 ./configure
