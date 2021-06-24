@@ -80,7 +80,7 @@ ssserver -c /etc/shadowsocks.json -d start
 
 三、ubuntu系统下shadowsockschain-qt5的安装和配置
 
-**说明：ubuntu 20用下面的不行，可以直接把ubuntu 20 shadowsock client目录下的文件烤过去，然后改为可执行文件，chmod +x 赋权，双击运行即可**
+**说明：ubuntu 20用下面的不行，可以直接把ubuntu-vps-/ubuntu 20 shadowsock client目录下的文件烤过去，然后改为可执行文件，chmod +x 赋权，双击运行即可**
 
 1、安装
 链接：[https://www.codetd.com/article/3092913](https://www.codetd.com/article/3092913)
