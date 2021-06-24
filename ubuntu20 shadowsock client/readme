@@ -1,0 +1,1 @@
+ubuntu 20 shadowsocks client，其他版本应该也能用，现改为可执行文件，然后chmod +x 文件名 赋权，双击即可运行
