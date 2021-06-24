@@ -136,7 +136,7 @@ https://blog.csdn.net/jiugedexiaodi/article/details/92368546
 
 2、修改修改配置文件proxychains.conf
 ###特别注意不是主目录下的etc，而是/usr/local/etc/proxychains.conf，把最后一句（带socks4的）修改成如下：
-socks5  127.0.0.1 1080  #1080改为你自己的端口
+socks5  127.0.0.1 1080  
 
 ```
 sudo gedit /usr/local/etc/proxychains.conf
