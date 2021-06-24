@@ -77,7 +77,7 @@ ssserver -c /etc/shadowsocks.json -d start
 自此远程服务器端已配好,配完就可以关掉远程界面（root@vultr:~#）了。
 
 三、ubuntu系统下shadowsockschain-qt5的安装和配置
-
+**说明：这是ubuntu 20用这个不行，直接把ubuntu 20shadowsock client下的文件烤过去，然后改为可执行文件，chmod +x 赋权，双击运行即可**
 1、安装
 链接：[https://www.codetd.com/article/3092913](https://www.codetd.com/article/3092913)
 
