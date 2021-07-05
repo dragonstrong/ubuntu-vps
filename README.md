@@ -2,7 +2,7 @@ ubuntu 18下vps搭建指南
 
 一、购买国外VPS
 
-(**不推荐自己搭服务器了，vltur 三天两头被封，若还能ping通，一般可通过改端口重启服务器救活，但垃圾、贵、烦人。发现一个神器V2ray：[https://github.com/freefq/free](https://github.com/freefq/free),贼爽。另外免费VPN也可终端走代理，[https://github.com/dragonstrong/ubuntu-vps-/blob/main/latern.md](https://github.com/dragonstrong/ubuntu-vps-/blob/main/latern.md)**)
+(**不推荐自己搭服务器了，因为稳定又便宜的比较难找，vltur三天两头被封，浪费时间还费钱。发现一个神器V2ray：[https://github.com/freefq/free](https://github.com/freefq/free),贼爽。另外免费VPN也可终端走代理，[https://github.com/dragonstrong/ubuntu-vps-/blob/main/latern.md](https://github.com/dragonstrong/ubuntu-vps-/blob/main/latern.md)**)
 
 1、官网
 [https://www.vultr.com/](https://www.vultr.com/)
@@ -189,4 +189,4 @@ port: 1080
 
 
 **说明：
-vultr不是很稳定，ip经常被封，遇到这种情况可尝试非热门地区的ip，或者找更稳定的服务器。**
+vultr ip被墙，若还能ping通，改端口重启服务解决，但治根不治本，若有稳定的服务器推荐请发邮件至dragonstrong@outlook.com，谢谢**
