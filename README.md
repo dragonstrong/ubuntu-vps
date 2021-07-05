@@ -189,4 +189,4 @@ port: 1080
 
 
 **说明：
-vultr ip被墙，若还能ping通，改端口重启服务解决，但治根不治本，若有稳定的服务器推荐请发邮件至dragonstrong@outlook.com，谢谢**
+vultr ip被墙，若还能ping通，改端口重启服务解决，但治根不治本,用不了多久**
