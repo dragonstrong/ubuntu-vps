@@ -2,7 +2,7 @@ ubuntu 18下vps搭建指南
 
 一、购买国外VPS
 
-(**不太推荐vltur了，ip三天两头被封，若还能ping通，一般可通过改端口重启服务器救活，但还是太垃圾又贵，现在不自己整服务器了，发现直接用免费VPN也终端走代理**)
+(**不太推荐vltur了，ip三天两头被封，若还能ping通，一般可通过改端口重启服务器救活，但还是太垃圾又贵，现在不自己整服务器了，发现直接用免费VPN也终端走代理[https://github.com/dragonstrong/ubuntu-vps-/blob/main/latern.md](https://github.com/dragonstrong/ubuntu-vps-/blob/main/latern.md)**)
 
 1、官网
 [https://www.vultr.com/](https://www.vultr.com/)
