@@ -12,7 +12,7 @@ ubuntu 18下vps搭建指南
 
 二、配置VPS
 
-1、本机通过ssh连接远程vps(远在国外的服务器)
+1、本机通过ssh远程连接vps(国外的服务器)
 
 ```
 ssh username@IP                       #官网查看（上图）
@@ -51,8 +51,8 @@ sudo vim /etc/shadowsocks.json   #创建配置文件shadowsocks.json并编辑
 {
     "server":"服务器ip",             (vultr官网)
     "server_port":6666,             （自定义）
-    "local_address": "127.0.0.1",    （本地IP,不能改，维持127.0.0.1不变）
-    "local_port":1080,                （本地端口，不能改，维持1080）
+    "local_address": "127.0.0.1",    （本地IP,维持127.0.0.1不变）
+    "local_port":1080,                （本地端口，维持1080）
     "password":"连接密码",             (自定义)
     "timeout":300,                    
     "method":"rc4-md5"               （配成rc4-md5比其他方式网速更快）注意最后一句末尾没有逗号
@@ -83,7 +83,7 @@ ssserver -c /etc/shadowsocks.json -d start
 **说明：ubuntu 20用下面的不行，可以直接把ubuntu-vps-/ubuntu 20 shadowsock client目录下的文件烤过去，然后改为可执行文件，chmod +x 赋权，双击运行即可**
 
 1、安装
-链接：[https://www.codetd.com/article/3092913](https://www.codetd.com/article/3092913)
+参考链接：[https://www.codetd.com/article/3092913](https://www.codetd.com/article/3092913)
 
 ```
 sudo add-apt-repository ppa:hzwhuang/ss-qt5
