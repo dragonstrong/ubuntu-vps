@@ -2,7 +2,7 @@
 ubuntu 18下vps搭建指南
 
 
-不推荐自己搭服务器了，稳定又便宜的比较难找，vltur三天两头被封，浪费时间和钱。**
+不推荐自己搭服务器了，稳定又便宜的比较难找，vltur三天两头被封，浪费时间和钱。
 
 推荐一个免费神器：[https://github.com/freefq/free](https://github.com/freefq/free),实时更新免费节点;
 
