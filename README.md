@@ -5,13 +5,13 @@ ubuntu 18下vps搭建指南
 
 说明：
 
-因稳定又便宜的服务器比较难找，不推荐自己搭，vltur三天两头被封，浪费时间和钱。
+稳定又便宜的服务器比较难找，不推荐自己搭，vltur三天两头被封，浪费钱和时间。建议：
 
-推荐一个免费神器：[https://github.com/freefq/free](https://github.com/freefq/free),实时更新免费节点;
+1、[https://github.com/freefq/free](https://github.com/freefq/free),实时更新免费节点;
 
-如果想更快的话，推荐现成的机场：[https://9.234456.xyz/abc.html?t=637626390496742785](https://9.234456.xyz/abc.html?t=637626390496742785),
+2、现成机场，速度和稳定都可以：[https://9.234456.xyz/abc.html?t=637626390496742785](https://9.234456.xyz/abc.html?t=637626390496742785),
 
-另外终端也可用免费VPN走代理，[https://github.com/dragonstrong/ubuntu-vps-/blob/main/lantern.md](https://github.com/dragonstrong/ubuntu-vps-/blob/main/lantern.md)
+3、免费VPN终端走代理，[https://github.com/dragonstrong/ubuntu-vps-/blob/main/lantern.md](https://github.com/dragonstrong/ubuntu-vps-/blob/main/lantern.md)
 
 一、购买国外VPS
 
