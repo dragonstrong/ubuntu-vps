@@ -7,9 +7,9 @@ ubuntu 18下vps搭建指南
 
 1、**强烈推荐：fastlink，19元100G高速流量/月：[https://github.com/dragonstrong/clash](https://github.com/dragonstrong/clash)，也有便宜的见3**
 
-2、[https://github.com/freefq/free](https://github.com/freefq/free),实时更新免费节点，凑合用;
+2、[https://github.com/freefq/free](https://github.com/freefq/free),实时更新免费节点，凑合用
 
-3、现成机场，速度和稳定性都可以：[https://9.234456.xyz/abc.html?t=637626390496742785](https://9.234456.xyz/abc.html?t=637626390496742785),
+3、现成机场，速度和稳定性都可以：[https://9.234456.xyz/abc.html?t=637626390496742785](https://9.234456.xyz/abc.html?t=637626390496742785)
 
 4、免费VPN终端走代理：[https://github.com/dragonstrong/ubuntu-vps-/blob/main/lantern.md](https://github.com/dragonstrong/ubuntu-vps-/blob/main/lantern.md)
 
@@ -23,7 +23,7 @@ ubuntu 18下vps搭建指南
 
 二、配置VPS
 
-1、本机通过ssh远程连接vps(国外的服务器)
+1、本机通过ssh远程连接vps(国外服务器)
 
 ```
 ssh username@IP                       #官网查看（上图）
@@ -87,7 +87,7 @@ ssserver -c /etc/shadowsocks.json -d start
 
 
 
-自此远程服务器端已配好,配完就可以关掉远程界面（root@vultr:~#）了。
+远程服务器配好后就可以关掉远程界面（root@vultr:~#）了。
 
 三、ubuntu系统下shadowsockschain-qt5的安装和配置
 
