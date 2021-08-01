@@ -1,17 +1,17 @@
 
 ubuntu 18下vps搭建指南
 
-**强烈推荐fastlink，19元100G高速流量/月，[https://github.com/dragonstrong/clash](https://github.com/dragonstrong/clash),也有便宜的，自己试。**
-
 说明：
 
 稳定又便宜的服务器比较难找，不推荐自己搭，vltur三天两头被封，浪费钱和时间。建议：
 
-1、[https://github.com/freefq/free](https://github.com/freefq/free),实时更新免费节点;
+1、**fastlink，19元100G高速流量/月：[https://github.com/dragonstrong/clash](https://github.com/dragonstrong/clash),强烈推荐，也有便宜的见3**
 
-2、现成机场，速度和稳定都可以：[https://9.234456.xyz/abc.html?t=637626390496742785](https://9.234456.xyz/abc.html?t=637626390496742785),
+2、[https://github.com/freefq/free](https://github.com/freefq/free),实时更新免费节点，凑合用;
 
-3、免费VPN终端走代理，[https://github.com/dragonstrong/ubuntu-vps-/blob/main/lantern.md](https://github.com/dragonstrong/ubuntu-vps-/blob/main/lantern.md)
+3、现成机场，速度和稳定性都可以：[https://9.234456.xyz/abc.html?t=637626390496742785](https://9.234456.xyz/abc.html?t=637626390496742785),
+
+4、免费VPN终端走代理，[https://github.com/dragonstrong/ubuntu-vps-/blob/main/lantern.md](https://github.com/dragonstrong/ubuntu-vps-/blob/main/lantern.md)
 
 一、购买国外VPS
 
