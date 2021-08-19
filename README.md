@@ -1,7 +1,7 @@
 
 ubuntu 18下vps搭建指南
 
-说明：不推荐买服务器搭，性价比不高也不稳定
+说明：不推荐买服务器搭，性价比低且不稳定
 
 
 1、**强烈推荐：fastlink，19元100G高速流量/月：[https://github.com/dragonstrong/clash](https://github.com/dragonstrong/clash)，也有便宜的见3**
