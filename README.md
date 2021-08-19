@@ -1,5 +1,5 @@
 
-ubuntu 18下vps搭建指南
+# ubuntu 18下vps搭建指南
 
 说明：不推荐买服务器搭，性价比低且不稳定
 
@@ -12,7 +12,9 @@ ubuntu 18下vps搭建指南
 
 4、免费VPN：[https://github.com/dragonstrong/ubuntu-vps-/blob/main/lantern.md](https://github.com/dragonstrong/ubuntu-vps-/blob/main/lantern.md)
 
-一、购买国外VPS
+## 搭建步骤
+
+### 一、购买国外VPS
 
 1、官网
 [https://www.vultr.com/](https://www.vultr.com/)
@@ -20,7 +22,7 @@ ubuntu 18下vps搭建指南
 2、vps配置截图
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218124113512.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
-二、配置VPS
+### 二、配置VPS
 
 1、本机通过ssh远程连接vps(国外服务器)
 
@@ -88,7 +90,7 @@ ssserver -c /etc/shadowsocks.json -d start
 
 远程服务器配好后就可以关掉远程界面（root@vultr:~#）了。
 
-三、ubuntu系统下shadowsockschain-qt5的安装和配置
+### 三、ubuntu系统下shadowsockschain-qt5的安装和配置
 
 **说明：ubuntu 20用下面的不行，可以直接把ubuntu-vps-/ubuntu 20 shadowsock client目录下的文件烤过去，然后改为可执行文件，chmod +x 赋权，双击运行即可**
 
@@ -120,7 +122,7 @@ ubuntu打开shadowsockschain-qt5 GUI界面,按照服务器shadowsocks.json的设
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218124824243.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
 
-四、让ubuntu终端走代理
+### 四、让ubuntu终端走代理
 
 参考链接：
 [ubuntu终端走代理](https://blog.csdn.net/weixin_42135399/article/details/82706083?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-
@@ -171,7 +173,7 @@ proxychains4 wget google.com
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218125058710.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RyYWdvbnN0cm9uZw==,size_16,color_FFFFFF,t_70#pic_center)
 
 
-五、ubuntu浏览器走代理
+### 五、ubuntu浏览器走代理
 
 参考链接：[ubuntu浏览器走代理]
 (https://www.codetd.com/article/1790848)
@@ -184,7 +186,7 @@ proxy一栏设置为：  socks5 127.0.0.1 1080  ，点击应用选项保存。
 使用时点击auto switch 
 浏览器访问google发现还访问不了，这时再点蓝色图标，点开未加载的资源，然后模式选择proxy,点击添加条件。
 
-六、window浏览器使用代理
+### 六、window浏览器使用代理
 
 1、下载ssr windows安装包
 [下载地址](https://tlanyan.me/shadowsockr-shadowsocksr-shadowsocksrr-clients/)
