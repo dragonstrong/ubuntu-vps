@@ -6,7 +6,7 @@
 
 1、**强烈推荐：fastlink，19元100G高速流量/月：[https://github.com/dragonstrong/clash](https://github.com/dragonstrong/clash)，也有便宜的见3**
 
-2、[https://github.com/freefq/free](https://github.com/freefq/free),实时更新，关键免费，凑合用
+2、[https://github.com/freefq/free](https://github.com/freefq/free),实时更新，关键免费，凑合用(已挂)
 
 3、现成机场，速度和稳定性都ok：[https://9.234456.xyz/abc.html?t=637626390496742785](https://9.234456.xyz/abc.html?t=637626390496742785)
 
