@@ -1,4 +1,4 @@
-lantern终端走代理
+## lantern终端走代理
 
 1、下载链接
 [https://github.com/getlantern/lantern](https://github.com/getlantern/lantern)
